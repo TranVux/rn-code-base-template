@@ -1,0 +1,8 @@
+{
+  "name": "rn-code-base-template",
+  "version": "0.0.1",
+  "description": "React Native template from Youth-Tech with 💖",
+  "repository": "git@github.com:TranVux/rn-code-base-template.git",
+  "author": "TranVux <vutran789jjjj@gmail.com>",
+  "license": "MIT"
+}
