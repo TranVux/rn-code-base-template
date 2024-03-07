@@ -1,3 +1,8 @@
+# RN code base template ⚡
+
+This project is a [React Native](https://facebook.github.io/react-native/) boilerplate that can be used to kickstart a mobile application. <br>
+Based on [react-native-boilerplate](https://github.com/thecodingmachine/react-native-boilerplate) project but we remove unnecessary dependencies.
+
 ## 🚀 Getting Started
 
 ### 1. Installation
@@ -19,3 +24,11 @@ yarn android
 ```bash
 yarn ios
 ```
+### 4. Credits
+
+[@thecodingmachine](https://github.com/thecodingmachine)
+
+### 5. Collaborators
+
+[@TranVux](https://github.com/TranVux)
+[@duyrk](https://github.com/duyrk)
